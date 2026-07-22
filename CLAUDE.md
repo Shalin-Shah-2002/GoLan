@@ -10,7 +10,7 @@ This project uses an **external Second Brain vault** as its single source of tru
 
 | Resource | Path |
 |---|---|
-| Second Brain vault root | `G:\My Drive\Obsi\Second-Brain` (Windows) / `/Users/shalinshah/Library/CloudStorage/GoogleDrive-2002shalin@gmail.com/My Drive/Obsi/Second-Brain` (macOS) |
+| Second Brain vault root | `G:\My Drive\Obsi\Second-Brain` (Windows) / `/Users/shalinshah/Library/CloudStorage/GoogleDrive-2002shalin@gmail.com/My Drive/Obsi/Second-Brain` (macOS) / `/Users/ssbdigital/Library/CloudStorage/GoogleDrive-2002shalin@gmail.com/My Drive/Obsi/Second-Brain` (macOS — Mac mini) |
 | Master AI_CONTEXT.md | `00_System/AI_CONTEXT.md` in the vault |
 | This project's docs | `01_Projects/go-lan/` in the vault |
 | Project templates | `00_System/Templates/Project.md` in the vault |
