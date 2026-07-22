@@ -1,0 +1,8 @@
+# Array
+
+Arrays, slices, and maps in Go — covers fixed-size arrays, dynamic slices, and key-value maps with Python comparisons.
+
+**Files:**
+- `arr.go` — Array declaration, indexing, and iteration
+- `Slices.go` — Slice operations (dynamic arrays)
+- `maps.go` — Map declaration and usage
